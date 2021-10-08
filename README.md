@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @umaraslam-cs
-- 👀 I’m interested in ... Flutter Development
-- 🌱 I’m currently learning ... SEO
+- 👋 Hi, I’m Umar Aslam
+- 👀 I’m interested in ... Flutter
+- 🌱 I’m currently working on ... Flutter
 - 💞️ I’m looking to collaborate on ... Flutter
 - 📫 How to reach me ... umaraslam.cs@gmail.com
 
