@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sheraz</h1>
+<h1 align="center">Hi 👋, I'm Umar Aslam</h1>
 <h3 align="center">A passionate flutter developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherazahmad720&label=Profile%20views&color=0e75b6&style=flat" alt="sherazahmad720" /> </p>
