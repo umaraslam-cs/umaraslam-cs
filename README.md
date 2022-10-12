@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Umar Aslam</h1>
-<h3 align="center">A passionate flutter developer from Pakistan</h3>
+<h3 align="center">A Flutter Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherazahmad720&label=Profile%20views&color=0e75b6&style=flat" alt="sherazahmad720" /> </p>
 
 <p align="left"> <a href="https://twitter.com/programmer_b0y" target="blank"><img src="https://img.shields.io/twitter/follow/programmer_b0y?logo=twitter&style=for-the-badge" alt="programmer_b0y" /></a> </p>
 
-- 🔭 I’m currently working in [Techorra](www.techorra.com)
+- 🔭 I’m currently working in [BuiltinSoft](www.builtinsoft.com)
 
-- 🌱 I’m currently learning **Node Js, Rest Api ,**
+- 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at [sherazahmad720](https://github.com/sherazahmad720)
+- 👨‍💻 All of my projects are available at [umaraslam-cs](https://github.com/umaraslam-cs)
 
 - 💬 Ask me about **Flutter frontend & back end , firebase**
 
