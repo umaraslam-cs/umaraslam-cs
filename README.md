@@ -11,14 +11,14 @@
 
 - 👨‍💻 All of my projects are available at [umaraslam-cs](https://github.com/umaraslam-cs)
 
-- 💬 Ask me about **Flutter frontend & back end , firebase**
+- 💬 Ask me about **Flutter Frontend & Backend , Firebase**
 
 - ⚡ Fun fact **I can code 24/7 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/programmer_b0y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="programmer_b0y" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sherazahmad720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sherazahmad720" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/umar-aslam-a78458146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sherazahmad720" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12141512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12141512" height="30" width="40" /></a>
 <a href="https://fb.com/sherazi720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sherazi720" height="30" width="40" /></a>
 <a href="https://instagram.com/programmer_b0y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmer_b0y" height="30" width="40" /></a>
