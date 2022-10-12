@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umar Aslam</h1>
 <h3 align="center">A Flutter Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherazahmad720&label=Profile%20views&color=0e75b6&style=flat" alt="sherazahmad720" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umaraslam-cs&label=Profile%20views&color=0e75b6&style=flat" alt="sherazahmad720" /> </p>
 
-<p align="left"> <a href="https://twitter.com/programmer_b0y" target="blank"><img src="https://img.shields.io/twitter/follow/programmer_b0y?logo=twitter&style=for-the-badge" alt="programmer_b0y" /></a> </p>
 
 - 🔭 I’m currently working in [BuiltinSoft](www.builtinsoft.com)
 
