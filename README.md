@@ -19,7 +19,7 @@ Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 <a href="https://stackoverflow.com/users/17642056/umar-aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12141512" height="30" width="40" /></a>
 <a href="https://www.facebook.com/umaraslam.cs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umaraslam-cs" height="30" width="40" /></a>
 </p>
-<img src="https://img.shields.io/badge/-muhammadnaseer.dev@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/its_naseerz/">   <img src="https://img.shields.io/badge/@naseerz_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/naseerz/"><img src="https://img.shields.io/badge/Muhammad Naseer-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://naseerdev.000webhostapp.com/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/@naseerz_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/naseerz/"><img src="https://img.shields.io/badge/Muhammad Naseer-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://naseerdev.000webhostapp.com/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
