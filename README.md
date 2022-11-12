@@ -7,7 +7,7 @@ Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Flutter+Developer+with+1%2B+Years+Experience;Passionate+about+Making+Mobile+Applications;Freelnancer;Open+sourse+contributer)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naseerx&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umaraslam-cs&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <a align="center">
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/naseerx?label=Github%20followers&style=for-the-badge" >
