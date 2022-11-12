@@ -10,11 +10,15 @@ Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umaraslam-cs&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <a align="center">
- <img alt="GitHub followers" src="https://img.shields.io/github/followers/naseerx?label=Github%20followers&style=for-the-badge" >
+ <img alt="GitHub followers" src="https://img.shields.io/github/followers/umaraslam-cs?label=Github%20followers&style=for-the-badge" >
   </a> 
 
 ### How to reach me: 
-<a href="mailto: muhammadnaseer.dev@gmail.com">
+<a href="mailto: umaraslam.cs@gmail.com">
+ <a href="https://www.linkedin.com/in/umar-aslam-a78458146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umaraslam-cs" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17642056/umar-aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12141512" height="30" width="40" /></a>
+<a href="https://www.facebook.com/umaraslam.cs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umaraslam-cs" height="30" width="40" /></a>
+</p>
 <img src="https://img.shields.io/badge/-muhammadnaseer.dev@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/its_naseerz/">   <img src="https://img.shields.io/badge/@naseerz_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/naseerz/"><img src="https://img.shields.io/badge/Muhammad Naseer-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://naseerdev.000webhostapp.com/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
