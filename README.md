@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umar Aslam</h1>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
-
 ### :man_technologist: About Me :
 
-I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
+Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan 🇵🇰.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Flutter+Developer+with+1%2B+Years+Experience;Passionate+about+Making+Mobile+Applications;Freelnancer;Open+sourse+contributer)](https://git.io/typing-svg)
 
