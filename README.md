@@ -1,40 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umar Aslam</h1>
 
-
-
-### Stats Overview : :cyclone:
-
-
- <div align=center>
- <img src="https://github-readme-stats.vercel.app/api?username=naseerx&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
- </div>
-
-
-
-
-### My Languages: 🕶️:
-<div align=center>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naseerx&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</div>
-
- 
-### Github Streak: ❤️‍🔥 
- <div align=center>
-  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naseerx&theme=shades-of-purple)](https://git.io/streak-stats)
-  
-</div>
-
-
-### Github Activity: 🎆
- 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=naseerx&theme=dracula&color=B994E6&bg_color=2B2D3D" />
- 
- ## 🐍 Contribution Snake:
-![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
-
-
 <h3 align="center">A Flutter Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umaraslam-cs&label=Profile%20views&color=0e75b6&style=flat" alt="umaraslam-cs" /> </p>
@@ -67,4 +32,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umaraslam-cs&show_icons=true&locale=en" alt="umaraslam-cs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umaraslam-cs&" alt="umaraslam-cs" /></p>
+
+
+### Github Activity: 🎆
+ 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=naseerx&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+ 
+ ## 🐍 Contribution Snake:
+![Snake animation](https://github.com/codersangam/codersangam/blob/output/github-contribution-grid-snake.svg)
 
