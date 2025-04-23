@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in [Senarios](https://senarios.co/)
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **FastAPI**
 
 - 👨‍💻 All of my projects are available at [umaraslam-cs](https://github.com/umaraslam-cs)
 
