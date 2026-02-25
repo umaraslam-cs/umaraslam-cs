@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working at [Senarios](https://senarios.co/)
+- 🔭 Currently working at [TenTwenty]([https://www.tentwenty.me/])
 - 🌱 Exploring **FastAPI** for backend development
 - 💬 Ask me about **Flutter (frontend & backend), Firebase, and Mobile App Architecture**
 - 🚀 Passionate about building scalable and performant mobile apps
