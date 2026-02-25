@@ -35,14 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umaraslam-cs&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="left">
