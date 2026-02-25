@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umar Aslam</h1>
-<h3 align="center">Flutter Developer | Mobile App Specialist</h3>
+<h3 align="center">Mobile App Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=umaraslam-cs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
